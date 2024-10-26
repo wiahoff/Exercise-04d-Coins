@@ -3,13 +3,13 @@
 ## Implementation
 
 Added:
-Score
-Health
-FireBall attack
-Gems
-Hearts
-5 levels
-damageing spikes
+Score,
+Health,
+FireBall attack,
+Gems,
+Hearts,
+5 levels,
+damageing spikes,
 damageing enemies
 
 ## References
