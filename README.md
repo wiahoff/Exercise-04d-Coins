@@ -2,6 +2,16 @@
 
 ## Implementation
 
+Added:
+Score
+Health
+FireBall attack
+Gems
+Hearts
+5 levels
+damageing spikes
+damageing enemies
+
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
